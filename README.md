@@ -1,65 +1,81 @@
-# 👋 Hi, I'm yizhaofengyue
+# 👋 Hi, I'm luojiawei
 
-💻 Backend Developer | Healthcare Systems | Distributed Systems Enthusiast  
+🎓 Undergraduate (Junior Year) | Full-Stack Developer | Actively Seeking Opportunities  
 
 ---
 
 ## 🚀 About Me
 
-- 6 months of experience in enterprise software development within the healthcare industry  
-- Hands-on experience in building and delivering medical system integrations (LIS / PACS / HIS)  
-- Familiar with data exchange workflows, interface standards, and system interoperability  
-- Passionate about backend architecture, high-performance systems, and scalable design  
-- Strong interest in distributed systems, consistency models, and system reliability  
+- Junior undergraduate student currently seeking internship or full-time opportunities  
+- 6 months of hands-on experience in real-world enterprise software development  
+- Built and delivered production-level systems in the healthcare domain  
+- Strong full-stack development capability, from frontend interaction to backend services  
+- Able to independently analyze problems, design solutions, and deliver end-to-end features  
 
 ---
 
-## 🛠️ What I Do
+## 💡 What Makes Me Different
 
-- Design and develop backend services for medical software systems  
-- Build high-availability services with focus on performance and stability  
-- Implement interface integrations between complex healthcare platforms  
-- Participate in system deployment and production environment delivery  
-- Explore AI-driven enterprise applications and intelligent system design  
+- 🔧 **End-to-End Ownership**  
+  Capable of handling complete feature delivery independently — from requirement analysis to deployment  
 
----
+- 🧠 **Problem-Solving Driven**  
+  Experienced in debugging complex system issues and ensuring stable production performance  
 
-## ⚙️ Tech Focus
+- ⚙️ **Engineering Mindset**  
+  Focus on writing maintainable, scalable, and high-performance systems  
 
-- Backend system design & service architecture  
-- Distributed systems & consensus algorithms (Raft, etc.)  
-- Data processing & high-performance storage  
-- API design & system integration  
-- Containerized deployment & service orchestration  
+- 🚀 **Fast Learner**  
+  Able to quickly adapt to new technologies and apply them in real-world projects  
 
 ---
 
-## 📌 Projects Highlights
+## 🛠️ What I Work On
 
-### 🔹 Medical System Integration
-- Developed multiple system interfaces connecting healthcare platforms  
-- Ensured stable data transmission and accurate report synchronization  
-- Improved system reliability in real-world deployment environments  
-
-### 🔹 High-Performance Service Exploration
-- Designed service components with emphasis on scalability and fault tolerance  
-- Explored distributed coordination and data consistency mechanisms  
+- Backend service development and system design  
+- Frontend-backend integration and user interaction flows  
+- System integration across complex enterprise platforms  
+- High-availability and performance-oriented service design  
+- Deployment and production environment troubleshooting  
 
 ---
 
-## 📈 Currently Learning
+## 📌 Project Highlights
 
-- Advanced distributed system design  
-- High-performance middleware  
-- AI + backend integration in enterprise scenarios  
+### 🔹 Healthcare System Integration
+- Independently participated in building and delivering system interfaces  
+- Ensured reliable data exchange across multiple platforms  
+- Resolved real-world issues in production environments  
+
+### 🔹 Full-Stack Feature Development
+- Delivered complete features including frontend interaction and backend logic  
+- Optimized user experience and system performance  
+
+### 🔹 System Reliability & Optimization
+- Diagnosed and fixed production issues under real-world constraints  
+- Improved service stability and fault tolerance  
+
+---
+
+## 📈 Currently Focused On
+
+- Advanced system design and distributed architectures  
+- Building scalable and high-performance applications  
+- Combining AI capabilities with real-world systems  
+
+---
+
+## 🎯 Career Goal
+
+To become a strong full-stack engineer with deep expertise in backend architecture and the ability to build scalable, real-world systems independently.
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
+- GitHub: https://github.com/xiaoheizi8
+- Email: spring_dev_ljw@163.com
 
 ---
 
-⭐️ *Always building, always learning.*
+⭐️ *Driven by curiosity. Built by persistence.*
